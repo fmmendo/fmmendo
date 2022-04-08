@@ -5,7 +5,6 @@ I'm Filipe, a Software Engineer based in London, UK.
 - 💻 I mostly work in C# and .NET Core.
 - 🎓 MSc in Computer Science from University of Aveiro, Portugal.
 - 🌱 I’m currently learning React.
-- 👨🏻‍🎓 Also studying for an Azure Developer certification.
 
 ### ⚡ Hobbies:
 - 💎 I am an avid reader and a regular at the movies.
